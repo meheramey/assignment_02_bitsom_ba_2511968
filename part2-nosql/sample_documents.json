@@ -1,0 +1,38 @@
+[
+  {
+    "product_id": "ELEC101",
+    "name": "Gaming Laptop",
+    "category": "Electronics",
+    "price": 75000,
+    "specifications": {
+      "processor": "Intel i7",
+      "ram": "16GB",
+      "voltage": "220V",
+      "warranty_months": 24
+    },
+    "tags": ["laptop", "tech", "high-performance"]
+  },
+  {
+    "product_id": "CLO202",
+    "name": "Classic Denim Jacket",
+    "category": "Clothing",
+    "price": 2500,
+    "attributes": {
+      "size": ["M", "L", "XL"],
+      "material": "Organic Cotton",
+      "color": "Indigo"
+    }
+  },
+  {
+    "product_id": "GROC303",
+    "name": "Organic Almond Milk",
+    "category": "Groceries",
+    "price": 350,
+    "expiry_date": "2024-12-15",
+    "nutritional_info": {
+      "calories": 60,
+      "vegan": true,
+      "allergens": ["Nuts"]
+    }
+  }
+]
