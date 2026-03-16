@@ -1,5 +1,4 @@
-## Anomaly Analysis
-
+## Q1.1 Anomaly Analysis
 The file orders_flat.csv contains information about orders, customers, products, and sales representatives in a single table. Since all the data is stored together, the same customer, product, and sales representative details are repeated in multiple rows. This design can lead to data anomalies such as insert anomaly, update anomaly, and delete anomaly.
 
 ## Insert Anomaly
